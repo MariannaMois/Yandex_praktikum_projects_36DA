@@ -3,6 +3,6 @@
 
 [1. Базовый Python.Исследование пользователей Яндекс.Музыки](https://github.com/MariannaMois/Yandex_praktikum_projects_36DA/tree/main/basic%20python%20project_1_big%20city%20music)
 Анализ данных о поведении пользователей Яндекс.Музыки г. Москвы и Петербурга.
-##  Используемые инструменты и техники:
+###  Используемые инструменты и техники:
  Python, Pandas
 
