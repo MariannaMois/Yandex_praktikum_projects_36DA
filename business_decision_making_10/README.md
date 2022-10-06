@@ -27,13 +27,4 @@
 
 ##  Используемые инструменты и техники:
 Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
+
